@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! I'm Vlad 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=440&lines=Full-stack+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me:
@@ -32,14 +28,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rettake&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rettake&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
